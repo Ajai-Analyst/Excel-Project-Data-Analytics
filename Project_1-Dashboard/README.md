@@ -1,8 +1,9 @@
-# Excel Salary Dashboard
+# Excel Salary Dashboard  
 
-![1_Salary_Dashboard.png](/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)
+![1_Salary_Dashboard.png]()  
 
-## Introduction
+## Introduction<img width="1347" height="619" alt="1_Salary_Dashboard" src="https://github.com/user-attachments/assets/40b79f28-4f11-4ed8-b3bb-3d6792e26ebf" />
+
 
 This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated. 
 
@@ -32,9 +33,10 @@ The dataset used for this project contains real-world data science job informati
 
 ### 📉 Charts
 
-#### 📊 Data Science Job Salaries - Bar Chart
+#### 📊 Data Analyst Job Salaries - Bar Chart
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Chart1.png" width="850" height="550" alt="Salary Dashboard Chart1">
+<img width="1336" height="867" alt="1_Salary_Dashboard_Chart1" src="https://github.com/user-attachments/assets/59304c59-43c6-4751-ba42-bba16598d16a" />
+
 
 - 🛠️ **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
 - 🎨 **Design Choice:** Horizontal bar chart for visual comparison of median salaries.
@@ -74,11 +76,13 @@ IF(
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Screenshot1.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot1.png)
+<img width="265" height="220" alt="1_Salary_Dashboard_Screenshot1" src="https://github.com/user-attachments/assets/8c583a73-9f1e-4880-96bd-177730d8b11b" />
+
 
 📉 Dashboard Implementation
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Job_Title.png" width="400" height="500" alt="Salary Dashboard Title">
+<img width="1148" height="1214" alt="1_Salary_Dashboard_Job_Title" src="https://github.com/user-attachments/assets/923fb056-af27-442d-9e3f-eafad47ce7a4" />
+
 
 #### ⏰ Count of Job Schedule Type
 
@@ -91,22 +95,25 @@ IF(
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Type.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot2.png)
+<img width="195" height="119" alt="1_Salary_Dashboard_Screenshot2" src="https://github.com/user-attachments/assets/52785171-1cbb-40bb-911c-4a16cc97778b" />
+
 
 📉 Dashboard Implementation:
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">
+
+<img width="942" height="1212" alt="1_Salary_Dashboard_Type" src="https://github.com/user-attachments/assets/de7aff0c-937e-4a14-a926-b64aeafd3782" />
 
 ### ❎ Data Validation
 
 #### 🔍 Filtered List
 
-- 🔒 **Enhanced Data Validation:** Implementing the filtered list as a data validation rule under the `Job Title`, `Country`, and `Type` option in the Data tab ensures:
+- 🔒 **Enhanced Data Validation:** Implementing the filtered list as a data validation rule under the `Job Title`, `Country`, and `Type` options in the Data tab ensures:
     - 🎯 User input is restricted to predefined, validated schedule types
     - 🚫 Incorrect or inconsistent entries are prevented
     - 👥 Overall usability of the dashboard is enhanced
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Data_Validation.gif" width="425" height="400" alt="Salary Dashboard Data Validation">
+![1_Salary_Dashboard_Data_Validation](https://github.com/user-attachments/assets/a23dff06-ebca-43d3-8de7-5d005774c878)
+
 
 ## Conclusion
 
