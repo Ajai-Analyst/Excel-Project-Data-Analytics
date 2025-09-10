@@ -112,6 +112,8 @@ IF(
     - 🚫 Incorrect or inconsistent entries are prevented
     - 👥 Overall usability of the dashboard is enhanced
 
+
+
 ![1_Salary_Dashboard_Data_Validation](https://github.com/user-attachments/assets/a23dff06-ebca-43d3-8de7-5d005774c878)
 
 
