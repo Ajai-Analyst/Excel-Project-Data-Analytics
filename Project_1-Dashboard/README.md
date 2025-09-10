@@ -43,7 +43,10 @@ The dataset used for this project contains real-world data science job informati
 - 📉 **Data Organization:** Sorted job titles by descending salary for improved readability.
 - 💡 **Insights Gained:** This enables quick identification of salary trends, noting that Senior roles and Engineers are higher-paying than Analyst roles.
 
-#### 🗺️ Country Median Salaries - Map Chart
+#### 🗺️ Country Median Salaries - Map Chart  
+
+
+![1_Salary_Dashboard_Country_Map](https://github.com/user-attachments/assets/393e2653-cd8d-4e1c-8e9b-8e6bcdd65842)
 
 ![1_Salary_Dashboard_Chart2.png](/0_Resources/Images/1_Salary_Dashboard_Country_Map.gif)
 
@@ -89,6 +92,7 @@ IF(
 ```
 =FILTER(J2#,(NOT(ISNUMBER(SEARCH("and",J2#))+ISNUMBER(SEARCH(",",J2#))))*(J2#<>0))
 ```
+<img width="519" height="186" alt="1_Salary_Dashboard_Screenshot3" src="https://github.com/user-attachments/assets/25a74d61-da6c-44f5-878f-2220082ccae9" />
 
 - 🔍 **Unique List Generation:** This Excel formula below employs the `FILTER()` function to exclude entries containing "and" or commas, and omit zero values.
 - **🔢 Formula Purpose:** This formula populates the table below, which gives us a list of unique job schedule types.
